@@ -1,0 +1,10 @@
+img{
+    height: 1oopx;
+    width: 100px;
+    border-radius: 50%;
+    border: solid black;
+}
+div{
+    background-color: aqua;
+    text-align: center;
+}
